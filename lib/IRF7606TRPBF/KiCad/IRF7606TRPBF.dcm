@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IRF7606TRPBF
+D MOSFET MOSFT PCh -30V -3.6A 90mOhm 20nC Micro 8
+K
+F https://componentsearchengine.com/Datasheets/1/IRF7606TRPBF.pdf
+$ENDCMP
+#
+#End Doc Library

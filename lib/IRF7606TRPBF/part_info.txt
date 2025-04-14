@@ -1,0 +1,9 @@
+Manufacturer=Infineon
+PartNumber=IRF7606TRPBF
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=1.1
+Released=2022-06-03 04:18:52
+Downloaded=2025-04-14 13:03:10
+3D=Y
