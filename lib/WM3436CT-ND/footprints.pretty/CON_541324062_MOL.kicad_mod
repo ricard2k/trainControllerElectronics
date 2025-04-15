@@ -624,9 +624,9 @@
 		(uuid "8df1bb9c-78a7-4164-930e-4b7f54d8a972")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/lib/WM3436CT-ND‎/541324062.stp"
+	(model "${KIPRJMOD}/lib/WM3436CT-ND/541324062.stp"
 		(offset
-			(xyz 0 -2.8 0)
+			(xyz 0 -2.75 0)
 		)
 		(scale
 			(xyz 1 1 1)
