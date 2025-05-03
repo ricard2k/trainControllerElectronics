@@ -80,6 +80,104 @@
 				(hide yes)
 			)
 		)
+		(symbol "ZXM64P03XTA_0_1"
+			(polyline
+				(pts
+					(xy 10.16 0) (xy 17.78 0) (xy 17.7954 -2.2126) (xy 15.2554 -2.2126)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 10.16 -7.62) (xy 13.97 -7.62) (xy 13.97 -2.54)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 15.24 -3.1074) (xy 15.24 -1.1282)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 15.24 -3.81) (xy 15.24 -5.7462) (xy 15.24 -5.08)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 15.24 -6.35) (xy 15.24 -8.89) (xy 15.24 -7.62) (xy 22.3483 -7.6224)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 17.78 -1.27) (xy 17.7749 -4.7478) (xy 15.2349 -4.7478)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 19.05 -3.81) (xy 21.59 -3.81)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 20.32 -7.62) (xy 20.3188 -2.2126) (xy 17.727 -2.2126)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+		)
 		(symbol "ZXM64P03XTA_1_1"
 			(rectangle
 				(start 7.62 2.54)
@@ -90,6 +188,32 @@
 				)
 				(fill
 					(type background)
+				)
+			)
+			(polyline
+				(pts
+					(xy 16.3637 -4.0882) (xy 16.3637 -5.3134) (xy 17.7774 -4.7479) (xy 16.3637 -4.0882)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type color)
+					(color 0 0 0 0)
+				)
+			)
+			(polyline
+				(pts
+					(xy 19.05 -6.35) (xy 21.59 -6.35) (xy 20.32 -3.81) (xy 19.05 -6.35) (xy 21.59 -6.35)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type color)
+					(color 0 0 0 0)
 				)
 			)
 			(pin unspecified line

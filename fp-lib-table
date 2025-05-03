@@ -4,4 +4,5 @@
   (lib (name "ptv09")(type "KiCad")(uri "${KIPRJMOD}/lib/ptv09a-4x15f-xxxx")(options "")(descr ""))
   (lib (name "BSS670S2L")(type "KiCad")(uri "${KIPRJMOD}/lib/BSS670S2LH6327XTSA1/KiCADv6/footprints.pretty")(options "")(descr ""))
   (lib (name "ZXM64P03XTA")(type "KiCad")(uri "${KIPRJMOD}/lib/ZXM64P03XTA/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "IRF7319")(type "KiCad")(uri "${KIPRJMOD}/lib/IRF7319TRPBF/KiCADv6/footprints.pretty")(options "")(descr ""))
 )
